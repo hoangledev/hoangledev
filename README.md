@@ -5,8 +5,8 @@
 
 <h2 align="center">About me</h2>
   <p>I'm a <b>Game Developer</b> with Unity Engine <img src="https://img.icons8.com/fluency/24/000000/unity.png"/> for now.</p>
-  <p>Before that, I've been a <b>Software Engineer</b> at Robert Bosch <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/24/external-bosch-a-german-multinational-engineering-and-technology-company-industry-duo-tal-revivo.png">, working in the Automotive Domain.</p>
-  <p>The reason why I changed my pathway is my passion for Game Development, and I was excited about its potential which is able to apply top technologies such as AI, Blockchain, VR, etc.</p>
+<!--   <p>Before that, I've been a <b>Software Engineer</b> at Robert Bosch <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/24/external-bosch-a-german-multinational-engineering-and-technology-company-industry-duo-tal-revivo.png">, working in the Automotive Domain.</p>
+  <p>The reason why I changed my pathway is my passion for Game Development, and I was excited about its potential which is able to apply top technologies such as AI, Blockchain, VR, etc.</p> -->
 
 <h2 align="center">You can reach me at 😎</h2>
 
