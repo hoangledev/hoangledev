@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Labrada&size=30&duration=1200&pause=300&color=F7C511&multiline=true&repeat=false&center=true&height=90&width=1080&lines=Hi,+I'm+Hoang+Le+(JohnnyLe),+Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Labrada&size=30&duration=1200&pause=300&color=F7C511&multiline=true&repeat=false&center=true&height=90&width=1080&lines=Hi,+I'm+Hoang+Le+(JohnnyLe)Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <h2 align="center">About me</h2>
-  <p>I'm a <b>Game Developer</b> with Unity Engine <img src="https://img.icons8.com/fluency/24/000000/unity.png"/> for now.</p>
+  <p>I'm a <b>Game Developer</b> with Unity Engine <img src="https://img.icons8.com/fluency/24/000000/unity.png"/> from 2021.</p>
 <!--   <p>Before that, I've been a <b>Software Engineer</b> at Robert Bosch <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/24/external-bosch-a-german-multinational-engineering-and-technology-company-industry-duo-tal-revivo.png">, working in the Automotive Domain.</p>
   <p>The reason why I changed my pathway is my passion for Game Development, and I was excited about its potential which is able to apply top technologies such as AI, Blockchain, VR, etc.</p> -->
 
